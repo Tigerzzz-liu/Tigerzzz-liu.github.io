@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tigerzzz-liu.github.io/</id>
-    <title>Just a sleepy tiger</title>
-    <updated>2020-12-13T14:29:09.716Z</updated>
+    <title>萌虎</title>
+    <updated>2020-12-13T14:36:43.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tigerzzz-liu.github.io/"/>
     <link rel="self" href="https://tigerzzz-liu.github.io/atom.xml"/>
-    <subtitle>tiger is sleeping, zzzzz</subtitle>
+    <subtitle>啥也不会，但是个积极的干饭人！</subtitle>
     <logo>https://tigerzzz-liu.github.io/images/avatar.png</logo>
     <icon>https://tigerzzz-liu.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Just a sleepy tiger</rights>
+    <rights>All rights reserved 2020, 萌虎</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://tigerzzz-liu.github.io/post/hello-gridea/</id>
